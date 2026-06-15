@@ -13,6 +13,7 @@ Questions are organized by category, one folder per category. Each category fold
 Current categories:
 - `behavioral/` — STAR-method behavioral questions, grouped by competency area within a single consolidated file
 - `system-design/` — System design prompts
+- `class-design/` — Object-oriented / low-level design problems
 - `leadership/` — Engineering leadership and management questions
 - `logical-reasoning/` — Estimation, probability, and analytical puzzles
 

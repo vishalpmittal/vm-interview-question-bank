@@ -6,6 +6,7 @@ A personal collection of interview questions across technical and leadership dom
 
 - [behavioral/](behavioral/) — STAR-method behavioral questions organized by competency area
 - [system-design/](system-design/) — System design prompts and evaluation rubrics
+- [class-design/](class-design/) — Object-oriented / low-level design problems
 - [leadership/](leadership/) — Engineering leadership and management questions
 - [logical-reasoning/](logical-reasoning/) — Estimation, probability, and analytical puzzles
 
